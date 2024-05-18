@@ -1,0 +1,34 @@
+.conteudo-principal {
+    width: 100%;
+    height: 100%;
+    background-color: #cbfff7;
+    display: flex;
+}
+#vermelho {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-color: #c71d1d;
+    flex-wrap: wrap;
+}
+#azul {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-color: #1100ff;
+    flex-wrap: wrap;
+   
+}
+#azul-claro {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-color: #047ccc;
+    flex-wrap: wrap;
+}
+#verde {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-color: #09ff00;
+}
