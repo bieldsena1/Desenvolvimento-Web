@@ -1,4 +1,4 @@
-var num1 = Number(prompt("Digite o primeiro num: "))
+    var num1 = Number(prompt("Digite o primeiro num: "))
     var num2 = Number(prompt("Digite o segundo num: "))
 
     var soma = num1 + num2
