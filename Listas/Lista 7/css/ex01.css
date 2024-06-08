@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12+Charted&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Oswald:wght@200..700&display=swap');
+#conteudo-principal {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.conteudo-produto {
+    width: 200px;
+    height: 300px;
+    border: 1px solid black; 
+    border-radius: 10px;
+    margin-top: 5%;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.botoes {
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn {
+    height: 20px;
+    width: 70px;
+    background-color: rgb(184, 184, 184);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.btn:hover{
+    
+    background: linear-gradient(#77a1fc,#77a1fc);
+    transition: .5s;
+}
+.btn:active{
+    background: linear-gradient(#454649,#040507);
+    transition: .5s;
+}
+.h2{
+    font-family: "Oswaldo",;
+}
+.p{
+    font-family: "Oswaldo",;
+}
+.h4{
+    font-family: "Oswaldo",;
+}
